@@ -25,8 +25,7 @@ function setup() {
   iss.setCollider("rectangle",10,-100,480,400);
   iss.debug = false;
 
-  yo=createSprite(311,348,10,20,20);
-
+  
 }
 
 function draw() {
